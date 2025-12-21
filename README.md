@@ -39,7 +39,7 @@ struct Developer {
 impl Developer {
     fn new() -> Self {
         Developer {
-            name: "Your Name",
+            name: "balouriabdrahman",
             role: "Full Stack Engineer",
             location: "Morocco 🇲🇦",
             languages: vec!["Rust", "C", "TypeScript", "JavaScript"],
