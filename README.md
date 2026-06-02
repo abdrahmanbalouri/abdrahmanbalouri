@@ -1,6 +1,8 @@
-## Abdrahman Balouri
+<div align="center">
 
-Software Engineer & Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Abdrahman+Balouri;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+
+</div>
 
 C · C++ · Rust · Java · Go · Python
 
@@ -8,19 +10,19 @@ C · C++ · Rust · Java · Go · Python
 
 ### Frontend Development
 
-HTML5 · CSS3 · React · Angular
+HTML5 · CSS3 · React · Angular - next js - react
 
 ### Backend Development
 
-Spring · Spring Boot · Hibernate · Maven · Node.js · Express.js
+Spring · Spring Boot · Hibernate · Go - Rust
 
 ### Databases
 
-MySQL · PostgreSQL · MongoDB · Oracle
+MySQL · PostgreSQL  · Oracle
 
 ### Tools & Technologies
 
-Git · Docker · Postman · IntelliJ IDEA · Linux
+Git · Docker  · Linux
 
 ---
 
