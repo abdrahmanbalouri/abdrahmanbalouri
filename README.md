@@ -52,27 +52,7 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/abdrahmanbalouri">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdrahmanbalouri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrahmanbalouri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdrahmanbalouri&theme=tokyonight&hide_border=true&background=0D1117" height="180" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdrahmanbalouri&theme=tokyo-night&hide_border=true&bg_color=0D1117" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdrahmanbalouri&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
-
----
+----
 
 <p align="center">
   <a href="https://github.com/abdrahmanbalouri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -84,8 +64,8 @@
   <img src="https://komarev.com/ghpvc/?username=abdrahmanbalouri&color=6C63FF&style=flat&label=Profile+Views" />
 </p>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" />
   <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%" />
-</picture>
+</picture> -->
