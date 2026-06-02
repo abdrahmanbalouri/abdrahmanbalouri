@@ -19,7 +19,7 @@
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <table>
   <tr>
@@ -60,9 +60,6 @@
   <a href="mailto:balouriabdrahman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdrahmanbalouri&color=6C63FF&style=flat&label=Profile+Views" />
-</p>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" />
